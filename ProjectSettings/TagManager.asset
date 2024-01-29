@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grounded
+  - Coin
+  - CoinPos
+  - Enemy
+  - Spike
+  - Shadow
+  - Effect
+  - Chest
+  - SpawnMap
+  - Falling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Grounded
+  - ActiveCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4120271259
+    locked: 0
+  - name: Tree
+    uniqueID: 1775970101
+    locked: 0
+  - name: Grounded
+    uniqueID: 2697022051
+    locked: 0
+  - name: Player
+    uniqueID: 858548033
+    locked: 0
+  - name: FrontGrounded
+    uniqueID: 1114343121
+    locked: 0
